@@ -49,7 +49,7 @@ namespace consoleT_Rex_Miner_01 {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("5")]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
         public int RebootAfter {
             get {
                 return ((int)(this["RebootAfter"]));
